@@ -1,2 +1,2 @@
 # MyMLCollection
-Collection of Code for ddata analytics
+Collection of Code for Machine Learning Code for data analytics
